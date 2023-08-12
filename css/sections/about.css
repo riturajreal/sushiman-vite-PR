@@ -22,4 +22,10 @@
     align-items: center;
 
     /* background   */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
 }
+
+/* images */
