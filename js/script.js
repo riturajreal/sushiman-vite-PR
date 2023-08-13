@@ -3,6 +3,6 @@ import "aos/dist/aos.css";
 
 // init AOS animation
 AOS.init({
-    duration: 1000,
+    duration: 1500,
     offset: 100,
 });
